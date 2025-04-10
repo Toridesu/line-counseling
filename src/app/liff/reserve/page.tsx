@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
-import { closeLiff, getLiffToken, initializeLiff } from "@/lib/liff/utils";
+import { closeLiff, getLiffToken, initializeLiff } from "@/app/liff/utils";
 import { useState, useEffect } from "react";
 
 export default function LiffReservationPage() {
