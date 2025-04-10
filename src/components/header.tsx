@@ -15,7 +15,7 @@ const Header = () => {
         <div className="flex items-center space-x-8">
           <div className="flex items-center gap-2">
             <Code className="h-6 w-6" />
-            <span className="text-xl font-bold">Hamster Driving School</span>
+            <span className="text-xl font-bold">Code Academy</span>
           </div>
           <nav className="hidden md:flex gap-6">
             <div className="flex items-center gap-6">
