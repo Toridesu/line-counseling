@@ -9,7 +9,7 @@ const Hero = () => {
     <section className="relative flex min-h-[90vh] items-end justify-center">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero.jpg"
+          src="/hero.png"
           alt="Programmers working together"
           fill
           className="object-cover"
