@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/86678826-668d-437b-b5e6-0efff253dd6b)
 # LINE カウンセリングアプリ
 
 **LINE Messaging API （Bot）を活用した Web アプリケーション開発について学習。**
